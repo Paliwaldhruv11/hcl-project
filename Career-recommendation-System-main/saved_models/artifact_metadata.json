@@ -1,0 +1,8 @@
+{
+  "bundle_file": "career_streamlit_bundle.pkl",
+  "model_file": "career_hybrid_model.pkl",
+  "has_scaler": true,
+  "has_label_encoder": true,
+  "has_mlb": true,
+  "feature_count": null
+}
